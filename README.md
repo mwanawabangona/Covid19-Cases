@@ -5,7 +5,7 @@
   - one page for the item details.
 
 ## Project Description
-> Click [here](https://loom.com/share/eb9f9d4ce19942628b7c2aa2a74105c2) to watch a video that gives a brief description of the project
+> Click [here](https://www.loom.com/share/e7d79bb5e6d14098878b1c7b9bf5fa6a) to watch a video that gives a brief description of the project
 
 ## Live Demo
 > Click [here](https://elated-roentgen-42cb41.netlify.app/) to see the live demo
