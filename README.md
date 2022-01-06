@@ -13,7 +13,7 @@
 
 ItemsList page                              |  ItemDetails page
 :------------------------------------------:|:------------------------------------------:
-![](./src/assets/img/covid.png)   |  ![](./src/assets/img/covid1.png) 
+![](./src/assets/images/covid.png)   |  ![](./src/assets/images/covid1.png) 
 
 ### Built With
 
