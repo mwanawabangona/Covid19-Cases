@@ -27,13 +27,19 @@ body {
 }
 
 .navbar {
-  color: #fff;
+  color: rgb(240, 218, 218);
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #0e0f0f;
   padding: 0 3vw;
   height: 40px;
+  background: rgba( 27, 18, 18, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
 .nav-home {
@@ -76,7 +82,7 @@ body {
   background-color: #011130;
   padding: 2px;
   margin: 0;
-  color: #fff;
+  color: white;
   width: 100%;
   text-align: center;
 }
@@ -116,7 +122,11 @@ body {
   padding-left: 3px;
   width: 100%;
   margin: 0;
-  background-color: #011130;
+  background: rgba( 43, 14, 70, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
 }
 
 .search-down {
@@ -155,11 +165,21 @@ body {
 }
 
 .gray1 {
-  background-color: #0d1627;
+  background: rgba( 43, 14, 70, 0.55 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
 .gray2 {
-  background-color: #051c4b;
+  background: rgba( 43, 14, 70, 0.55 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
 .home-country-card {

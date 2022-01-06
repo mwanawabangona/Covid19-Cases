@@ -3,7 +3,8 @@ import { useSelector, useDispatch } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
 import CountryCard from '../components/CountryCard';
 import { getCovidInfoFromServer } from '../redux/covid19/covid19';
-import Globe from '../assets/images/globe.gif';
+// import Globe from '../assets/images/globe.gif';
+import cobb from '../assets/images/cobb.png';
 
 const HomePage = () => {
   const dispatch = useDispatch();
@@ -65,7 +66,7 @@ const HomePage = () => {
       <h1 className="home-heading h-heading">{state[0] && new Date(state[0].date).toDateString()}</h1>
 
       <div className="globe-icon-container">
-        <img className="globe" src={Globe} alt="Globe" />
+        <img className="globe" src={cobb} alt="Globe" />
       </div>
 
       <div className="world-wide">
