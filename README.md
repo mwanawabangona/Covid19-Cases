@@ -30,7 +30,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/Chimwemwe-127001/metrics-webapp.git
+   git clone https://github.com/mwanawabangona/Covid19-Cases.git
    ```
 2. Install NPM packages
    ```sh
